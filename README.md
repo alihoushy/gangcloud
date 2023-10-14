@@ -1,5 +1,9 @@
-# SoundCloud Gang Version
+# Gangsta Cloud
 
 ## Introduction
 
-A Chrome extension that converts the SoundCloud website's user interface into a gang-themed version.
+A Chrome extension that lists Iranian rappers along with all of their social networks.
+
+Screenshot of the functionality of the extension:
+
+![alt text](./assets/demo.png)

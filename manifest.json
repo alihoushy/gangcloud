@@ -3,7 +3,7 @@
      "version": "1.0",
      "manifest_version": 3,
      "author": "alihoushyaripour@gmail.com",
-     "description": "A chrome extension that gangs the SoundCloud website",
+     "description": "A Chrome extension that lists Iranian rappers along with all of their social networks",
      "homepage_url": "https://github.com/alihoushy/gangcloud",
      "permissions": ["activeTab", "tabs", "scripting"],
      "action": {
@@ -20,9 +20,8 @@
           "matches": ["<all_urls>"]
      }],
      "content_scripts": [{
-          "matches": ["https://soundcloud.com/*"],
+          "matches": ["<all_urls>"],
           "js": ["scripts/content-script.js"],
-          "css": ["assets/css/style.css"],
           "run_at": "document_end",
           "all_frames": true
      }],
