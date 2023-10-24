@@ -93,5 +93,24 @@
                { "type": "website", "url": null },
                { "type": "wikipedia", "url": "https://en.wikipedia.org/wiki/Amir_Tataloo" }
           ]
+     },
+     {
+          "id": 5,
+          "name_fa": "توماج صالحی",
+          "name_en": "Toomaj Salehi",
+          "avatar": "toomaj-salehi.png",
+          "socials": [
+               { "type": "telegram", "url": "https://t.me/ToomajSalehi" },
+               { "type": "instagram", "url": "https://www.secure.instagram.com/toomajofficial/" },
+               { "type": "x", "url": "https://twitter.com/OfficialToomaj" },
+               { "type": "youtube", "url": "https://www.youtube.com/c/ToomajSalehi" },
+               { "type": "facebook", "url": "https://www.facebook.com/ToomajSalehiOfficial/" },
+               { "type": "soundcloud", "url": "https://soundcloud.com/toomajsalehi" },
+               { "type": "spotify", "url": "https://open.spotify.com/artist/5mBmrpiMC2lzIWCG0MDOYx" },
+               { "type": "apple_music", "url": null },
+               { "type": "youtube_music", "url": null },
+               { "type": "website", "url": null },
+               { "type": "wikipedia", "url": "https://en.wikipedia.org/wiki/Toomaj_Salehi" }
+          ]
      }
 ]
