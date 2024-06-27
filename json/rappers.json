@@ -3,7 +3,7 @@
           "id": 1,
           "name_fa": "رضا پیشرو",
           "name_en": "Reza Pishro",
-          "avatar": "reza-pishro.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/reza-pishro.png",
           "socials": [
                { "type": "tg", "url": "https://t.me/pishroofficial" },
                { "type": "ig", "url": "https://www.instagram.com/pishrorezanaseri/" },
@@ -22,7 +22,7 @@
           "id": 2,
           "name_fa": "هیچکس",
           "name_en": "Hichkas",
-          "avatar": "hichkas.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/hichkas.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/hichkasofficial" },
@@ -41,7 +41,7 @@
           "id": 3,
           "name_fa": "یاس",
           "name_en": "Yas",
-          "avatar": "yas.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/yas.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/yastunes" },
@@ -60,7 +60,7 @@
           "id": 4,
           "name_fa": "عرفان پایدار",
           "name_en": "Erfan Paydar",
-          "avatar": "erfan-paydar.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/erfan-paydar.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/erfanpaydar" },
@@ -79,7 +79,7 @@
           "id": 5,
           "name_fa": "امیر تتلو",
           "name_en": "Amir Tataloo",
-          "avatar": "amir-tataloo.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/amir-tataloo.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": null },
@@ -98,7 +98,7 @@
           "id": 6,
           "name_fa": "توماج صالحی",
           "name_en": "Toomaj Salehi",
-          "avatar": "toomaj-salehi.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/toomaj-salehi.png",
           "socials": [
                { "type": "tg", "url": "https://t.me/ToomajSalehi" },
                { "type": "ig", "url": "https://www.secure.instagram.com/toomajofficial/" },
@@ -117,7 +117,7 @@
           "id": 7,
           "name_fa": "امید قدر",
           "name_en": "Omid Ghadar",
-          "avatar": "omid-ghadar.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/omid-ghadar.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/ghadarofficial/" },
@@ -136,7 +136,7 @@
           "id": 8,
           "name_fa": "علی اوج",
           "name_en": "Ali Owj",
-          "avatar": "ali-owj.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/ali-owj.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/aliowjhiphop" },
@@ -155,7 +155,7 @@
           "id": 9,
           "name_fa": "سینا ساعی",
           "name_en": "Sina Sae",
-          "avatar": "sina-sae.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/sina-sae.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/tiktaaksaesina" },
@@ -174,7 +174,7 @@
           "id": 10,
           "name_fa": "بهرام نورایی",
           "name_en": "Bahram Nouraei",
-          "avatar": "bahram-nouraei.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/bahram-nouraei.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/bahramnouraei" },
@@ -193,7 +193,7 @@
           "id": 11,
           "name_fa": "علی سورنا",
           "name_en": "Ali Sorena",
-          "avatar": "ali-sorena.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/ali-sorena.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/a.sorena" },
@@ -213,7 +213,7 @@
           "id": 12,
           "name_fa": "امیر خلوت",
           "name_en": "Amir Khalvat",
-          "avatar": "amir-khalvat.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/amir-khalvat.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/amirkhalvatofficial/" },
@@ -232,7 +232,7 @@
           "id": 13,
           "name_fa": "محمدرضا شایع",
           "name_en": "Mohammadreza Shayea",
-          "avatar": "mohammadreza-shayea.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/mohammadreza-shayea.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/shayea.official" },
@@ -251,7 +251,7 @@
           "id": 14,
           "name_fa": "شاهین نجفی",
           "name_en": "Shahin Najafi",
-          "avatar": "shahin-najafi.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/shahin-najafi.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/shahinnajafi/" },
@@ -270,7 +270,7 @@
           "id": 15,
           "name_fa": "حصین",
           "name_en": "Ho3ein",
-          "avatar": "ho3ein.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/ho3ein.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/h.rah/" },
@@ -291,7 +291,7 @@
           "id": 16,
           "name_fa": "صادق واحدی",
           "name_en": "Sadegh Vahedi",
-          "avatar": "sadegh-vahedi.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/sadegh-vahedi.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/sadeghvahediofficial/" },
@@ -310,7 +310,7 @@
           "id": 17,
           "name_fa": "سوگند",
           "name_en": "Sogand",
-          "avatar": "sogand.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/sogand.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/isogand" },
@@ -329,7 +329,7 @@
           "id": 18,
           "name_fa": "دانیال",
           "name_en": "Daniyal",
-          "avatar": "daniyal.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/daniyal.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/DaniyalOfficial" },
@@ -348,7 +348,7 @@
           "id": 19,
           "name_fa": "سجادی",
           "name_en": "Sajadii",
-          "avatar": ".png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/sajadii.png",
           "socials": [
                { "type": "tg", "url": "https://t.me/SajadiiOfficial" },
                { "type": "ig", "url": "https://instagram.com/sajadiiofficial" },
@@ -369,7 +369,7 @@
           "id": 20,
           "name_fa": "معراج تهرانی",
           "name_en": "Meraj Tehrani",
-          "avatar": "meraj-tehrani.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/meraj-tehrani.png",
           "socials": [
                { "type": "tg", "url": "https://t.me/merajtehraniofficial" },
                { "type": "ig", "url": "https://instagram.com/merajtehraniofficial" },
@@ -389,7 +389,7 @@
           "id": 21,
           "name_fa": "پوتک",
           "name_en": "Putak",
-          "avatar": "putak.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/putak.png",
           "socials": [
                { "type": "tg", "url": "https://t.me/putakk" },
                { "type": "ig", "url": "https://instagram.com/braveputak" },
@@ -411,7 +411,7 @@
           "id": 22,
           "name_fa": "جاستینا",
           "name_en": "Justina",
-          "avatar": "justina.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/justina.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/justinaofficialll" },
@@ -430,7 +430,7 @@
           "id": 23,
           "name_fa": "موئر",
           "name_en": "Moer",
-          "avatar": "moer.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/moer.png",
           "socials": [
                { "type": "tg", "url": "https://t.me/Moer25" },
                { "type": "ig", "url": "https://instagram.com/moerofficial" },
@@ -449,7 +449,7 @@
           "id": 24,
           "name_fa": "سینا تهم",
           "name_en": "Sina Taham",
-          "avatar": "sina-taham.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/sina-taham.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/tahaminjast/" },
@@ -468,7 +468,7 @@
           "id": 25,
           "name_fa": "مهراد هیدن",
           "name_en": "Mehrad Hidden",
-          "avatar": "mehrad-hidden.png",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/mehrad-hidden.png",
           "socials": [
                { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/mehradhiddenofficial" },

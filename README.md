@@ -70,3 +70,37 @@ To install this Chrome extension manually, follow these steps:
 ### Notes:
 - Make sure to reload the extension if you make changes to the code. You can do this by going back to `chrome://extensions/` and clicking the refresh icon under your extension.
 - If you encounter any issues, check the Chrome Developer Documentation or open an issue in this repository.
+
+## JSON Data
+
+Below is an example of the JSON data structure used in this project:
+
+```json
+[
+     {
+          "id": 21,
+          "name_fa": "نام فارسی",
+          "name_en": "English Name",
+          "avatar": "<avatar-url>",
+          "socials": [
+               { "type": "tg", "url": "<telegram-url>" },
+               { "type": "ig", "url": "<instagram-url>" },
+               { "type": "x", "url": "<twitter-url>" },
+               { "type": "yt", "url": "<youtube-url>" },
+               { "type": "fb", "url": "<facebook-url>" },
+               { "type": "sc", "url": "<soundcloud-url>" },
+               { "type": "st", "url": "<spotify-url>" },
+               { "type": "a_m", "url": "<apple-music-url>" },
+               { "type": "yt_m", "url": "<youtube-music-url>" },
+               { "type": "ws", "url": "<website-url>" },
+               { "type": "wp", "url": "<wikipedia-url>" },
+               { "type": "gn", "url": "<genius-url>" },
+               { "type": "gp", "url": "<google-search-url>" },
+               { "type": "tw", "url": "<twitch-url>" }
+          ]
+     },
+     ...
+]
+```
+
+This is the link to the [rappers.json](https://raw.githubusercontent.com/alihoushy/gangcloud/main/json/rappers.json) file.
