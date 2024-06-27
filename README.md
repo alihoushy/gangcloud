@@ -6,7 +6,7 @@ A Chrome extension that lists Iranian rappers along with all of their social net
 
 ## Screenshot of Extension Functionality
 
-![alt text](./assets/demo.png)
+![alt text](./assets/demo-2.png)
 
 ## Artists added to the extension (updating)
 
