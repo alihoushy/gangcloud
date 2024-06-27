@@ -1,0 +1,487 @@
+[
+     {
+          "id": 1,
+          "name_fa": "رضا پیشرو",
+          "name_en": "Reza Pishro",
+          "avatar": "reza-pishro.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/pishroofficial" },
+               { "type": "ig", "url": "https://www.instagram.com/pishrorezanaseri/" },
+               { "type": "x", "url": "https://twitter.com/Reza_Pishro" },
+               { "type": "yt", "url": "https://www.youtube.com/@rezapishrorail" },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": "https://soundcloud.com/reza-pishro-rail" },
+               { "type": "st", "url": "https://open.spotify.com/artist/0u4qrFczDmAsJesHPgbnru" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/reza-pishro/622879833" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B6%D8%A7_%D9%BE%DB%8C%D8%B4%D8%B1%D9%88" }
+          ]
+     },
+     {
+          "id": 2,
+          "name_fa": "هیچکس",
+          "name_en": "Hichkas",
+          "avatar": "hichkas.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://www.instagram.com/hichkasofficial" },
+               { "type": "x", "url": "https://twitter.com/HichkasOfficial" },
+               { "type": "yt", "url": "https://www.youtube.com/channel/UCAnylXo06Lw_x8swLZhIosg" },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": "https://soundcloud.com/hichkasofficial" },
+               { "type": "st", "url": "https://open.spotify.com/artist/2X90kCLyxyPeJ5nynJGbvT" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/hichkas/202480860" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": "https://en.wikipedia.org/wiki/Hichkas" }
+          ]
+     },
+     {
+          "id": 3,
+          "name_fa": "یاس",
+          "name_en": "Yas",
+          "avatar": "yas.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://www.instagram.com/yastunes" },
+               { "type": "x", "url": "https://twitter.com/YAStunes" },
+               { "type": "yt", "url": "https://www.youtube.com/channel/UC5gx0Pyl3UZ9YztuoZ-jFAQ" },
+               { "type": "fb", "url": "https://www.facebook.com/YASfans/" },
+               { "type": "sc", "url": "https://soundcloud.com/yastunes" },
+               { "type": "st", "url": "https://open.spotify.com/artist/7b8pXheEOc28fyFJnQzqmL" },
+               { "type": "a_m", "url": null },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": "https://en.wikipedia.org/wiki/Yas_(rapper)" }
+          ]
+     },
+     {
+          "id": 4,
+          "name_fa": "عرفان پایدار",
+          "name_en": "Erfan Paydar",
+          "avatar": "erfan-paydar.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://www.instagram.com/erfanpaydar" },
+               { "type": "x", "url": "https://twitter.com/Erfanmusic" },
+               { "type": "yt", "url": "https://www.youtube.com/c/ErfanTabarak" },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": "https://soundcloud.com/erfanpaydar" },
+               { "type": "st", "url": "https://open.spotify.com/artist/1yPzb9mqugowOfUs2vIOgL" },
+               { "type": "a_m", "url": null },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCD0nIW6_fr0ofSq73dpeflA" },
+               { "type": "ws", "url": "https://erfanpaydar.ir/" },
+               { "type": "wp", "url": "https://en.wikipedia.org/wiki/Erfan_(rapper)" }
+          ]
+     },
+     {
+          "id": 5,
+          "name_fa": "امیر تتلو",
+          "name_en": "Amir Tataloo",
+          "avatar": "amir-tataloo.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": null },
+               { "type": "x", "url": "https://twitter.com/tatalioo" },
+               { "type": "yt", "url": "https://www.youtube.com/user/TheAmirTataloo" },
+               { "type": "fb", "url": "https://www.facebook.com/amir.tataloo1" },
+               { "type": "sc", "url": "https://soundcloud.com/amirtataloo" },
+               { "type": "st", "url": "https://open.spotify.com/artist/5CEosSs2y4M9THNGI6mej8" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/amir-tataloo/448421862" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": "https://en.wikipedia.org/wiki/Amir_Tataloo" }
+          ]
+     },
+     {
+          "id": 6,
+          "name_fa": "توماج صالحی",
+          "name_en": "Toomaj Salehi",
+          "avatar": "toomaj-salehi.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/ToomajSalehi" },
+               { "type": "ig", "url": "https://www.secure.instagram.com/toomajofficial/" },
+               { "type": "x", "url": "https://twitter.com/OfficialToomaj" },
+               { "type": "yt", "url": "https://www.youtube.com/c/ToomajSalehi" },
+               { "type": "fb", "url": "https://www.facebook.com/ToomajSalehiOfficial/" },
+               { "type": "sc", "url": "https://soundcloud.com/toomajsalehi" },
+               { "type": "st", "url": "https://open.spotify.com/artist/5mBmrpiMC2lzIWCG0MDOYx" },
+               { "type": "a_m", "url": null },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": "https://en.wikipedia.org/wiki/Toomaj_Salehi" }
+          ]
+     },
+     {
+          "id": 7,
+          "name_fa": "امید قدر",
+          "name_en": "Omid Ghadar",
+          "avatar": "omid-ghadar.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://www.instagram.com/ghadarofficial/" },
+               { "type": "x", "url": "https://twitter.com/ghadarofficial" },
+               { "type": "yt", "url": null },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": "https://soundcloud.com/ghadarofficial" },
+               { "type": "st", "url": null },
+               { "type": "a_m", "url": null },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null }
+          ]
+     },
+     {
+          "id": 8,
+          "name_fa": "علی اوج",
+          "name_en": "Ali Owj",
+          "avatar": "ali-owj.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://instagram.com/aliowjhiphop" },
+               { "type": "x", "url": null },
+               { "type": "yt", "url": null },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": "https://soundcloud.com/owjali" },
+               { "type": "st", "url": "https://open.spotify.com/artist/1QLYXMAVVrk6WLYeARVBKn" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/ali-owj/622879995" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null }
+          ]
+     },
+     {
+          "id": 9,
+          "name_fa": "سینا ساعی",
+          "name_en": "Sina Sae",
+          "avatar": "sina-sae.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://www.instagram.com/tiktaaksaesina" },
+               { "type": "x", "url": "https://twitter.com/tiktaaksinasae?s=11" },
+               { "type": "yt", "url": "https://www.youtube.com/channel/UCWPhmUOUtJLD_O79VC2mD-w" },
+               { "type": "fb", "url": "https://facebook.com/watch/TikTaakSinaSaeofficial" },
+               { "type": "sc", "url": "https://soundcloud.com/sinasae" },
+               { "type": "st", "url": "https://open.spotify.com/artist/5er043agmHdVZkWTxL0Lpk" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/sina-sae/1398160438" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null }
+          ]
+     },
+     {
+          "id": 10,
+          "name_fa": "بهرام نورایی",
+          "name_en": "Bahram Nouraei",
+          "avatar": "bahram-nouraei.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://instagram.com/bahramnouraei" },
+               { "type": "x", "url": "https://twitter.com/BahramNouraei" },
+               { "type": "yt", "url": "https://www.youtube.com/@BahramNouraei" },
+               { "type": "fb", "url": "https://facebook.com/bahramofficial" },
+               { "type": "sc", "url": "https://soundcloud.com/Bahramnouraei" },
+               { "type": "st", "url": "https://open.spotify.com/artist/57LWeRc7ybAWTsS2vS1GA7" },
+               { "type": "a_m", "url": "https://itunes.apple.com/artist/bahram/325178456" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": "https://bahramnouraei.com/" },
+               { "type": "wp", "url": "https://en.wikipedia.org/wiki/Bahram_Nouraei" }
+          ]
+     },
+     {
+          "id": 11,
+          "name_fa": "علی سورنا",
+          "name_en": "Ali Sorena",
+          "avatar": "ali-sorena.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://instagram.com/a.sorena" },
+               { "type": "x", "url": "https://twitter.com/sorenaofficial" },
+               { "type": "yt", "url": "https://www.youtube.com/@Sorenaofficial" },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": "https://soundcloud.com/AliSorena" },
+               { "type": "st", "url": "https://open.spotify.com/artist/1gNqCEatbX4cKskpTzyAsI" },
+               { "type": "a_m", "url": "https://music.apple.com/ca/artist/ali-sorena/730755096" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%D8%B3%D9%88%D8%B1%D9%86%D8%A7" },
+               { "type": "em", "url": "AliSorenaofficial@gmail.com" }
+          ]
+     },
+     {
+          "id": 12,
+          "name_fa": "امیر خلوت",
+          "name_en": "Amir Khalvat",
+          "avatar": "amir-khalvat.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://www.instagram.com/amirkhalvatofficial/" },
+               { "type": "x", "url": null },
+               { "type": "yt", "url": "https://www.youtube.com/@amirkhalvatofficial" },
+               { "type": "fb", "url": "https://m.facebook.com/p/Amir-khalvat-100063745869105/" },
+               { "type": "sc", "url": "https://soundcloud.com/amirkhalvatofficial" },
+               { "type": "st", "url": "https://open.spotify.com/artist/3mEVURCsHml1RKlcYjRyiy" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/amir-khalvat/1164578015" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null }
+          ]
+     },
+     {
+          "id": 13,
+          "name_fa": "محمدرضا شایع",
+          "name_en": "Mohammadreza Shayea",
+          "avatar": "mohammadreza-shayea.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://instagram.com/shayea.official" },
+               { "type": "x", "url": "https://twitter.com/shayea_official" },
+               { "type": "yt", "url": "https://www.youtube.com/@Shayea1" },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": "https://soundcloud.com/aslistream" },
+               { "type": "st", "url": "https://open.spotify.com/artist/3QNGoF6VzVNnkpjJDT3NHq?si=4qMf32O1T6yg_Ndrpsxf7Q&nd=1&dlsi=866cadcf06194513" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/shayea/1047023177" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null }
+          ]
+     },
+     {
+          "id": 14,
+          "name_fa": "شاهین نجفی",
+          "name_en": "Shahin Najafi",
+          "avatar": "shahin-najafi.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://www.instagram.com/shahinnajafi/" },
+               { "type": "x", "url": "https://twitter.com/shahinnajafi80?" },
+               { "type": "yt", "url": "https://www.youtube.com/c/shahinnajafimusic" },
+               { "type": "fb", "url": "https://www.facebook.com/shahinnajafi/" },
+               { "type": "sc", "url": "https://soundcloud.com/shahinnajafimusic" },
+               { "type": "st", "url": "https://open.spotify.com/artist/1W5u8Bz2yimyuuI8QNYsNO" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/shahin-najafi/401277985" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": "https://www.shahinnajafimusic.com/" },
+               { "type": "wp", "url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%DB%8C%D9%86_%D9%86%D8%AC%D9%81%DB%8C" }
+          ]
+     },
+     {
+          "id": 15,
+          "name_fa": "حصین",
+          "name_en": "Ho3ein",
+          "avatar": "ho3ein.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://www.instagram.com/h.rah/" },
+               { "type": "x", "url": "https://twitter.com/Ho3einOfficial" },
+               { "type": "yt", "url": "https://www.youtube.com/@Ho3einRa" },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": null },
+               { "type": "st", "url": "https://open.spotify.com/artist/5vVveQB8n4kETe67waTS3t" },
+               { "type": "a_m", "url": "https://music.apple.com/it/artist/ho3ein/568455515" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCECdvkLKropUTf3cCUdgTKg" },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null },
+               { "type": "dz", "url": "https://deezer.com/us/artist/4040206" },
+               { "type": "az_m", "url": "https://music.amazon.com/artists/B009MUTYFQ/ho3ein?marketplaceId=ATVPDKIKX0DER&musicTerritory=US" }
+          ]
+     },
+     {
+          "id": 16,
+          "name_fa": "صادق واحدی",
+          "name_en": "Sadegh Vahedi",
+          "avatar": "sadegh-vahedi.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://www.instagram.com/sadeghvahediofficial/" },
+               { "type": "x", "url": "https://twitter.com/sadeghofficial" },
+               { "type": "yt", "url": "https://www.youtube.com/@Sadeghvahedi" },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": "https://soundcloud.com/sadeghvahedi" },
+               { "type": "st", "url": "https://open.spotify.com/artist/1PgsdK1Ll4oK28g6KLPOg1" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/sadegh/1156242776" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": "https://sadeghvahedi.com" },
+               { "type": "wp", "url": "https://fa.wikipedia.org/wiki/%D8%B5%D8%A7%D8%AF%D9%82_(%D8%AE%D9%88%D8%A7%D9%86%D9%86%D8%AF%D9%87)" }
+          ]
+     },
+     {
+          "id": 17,
+          "name_fa": "سوگند",
+          "name_en": "Sogand",
+          "avatar": "sogand.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://instagram.com/isogand" },
+               { "type": "x", "url": "https://twitter.com/5ogand" },
+               { "type": "yt", "url": "https://www.youtube.com/@isogand" },
+               { "type": "fb", "url": "https://facebook.com/isogand" },
+               { "type": "sc", "url": null },
+               { "type": "st", "url": "https://open.spotify.com/artist/2mGkJsyXC8byI83UHSO4w1?autoplay=true" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/sogand/359009635" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCcXZ4NW0h2Hhp3FzPohbdFQ" },
+               { "type": "ws", "url": "https://www.deutschfmradio.de/" },
+               { "type": "wp", "url": null }
+          ]
+     },
+     {
+          "id": 18,
+          "name_fa": "دانیال",
+          "name_en": "Daniyal",
+          "avatar": "daniyal.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://instagram.com/DaniyalOfficial" },
+               { "type": "x", "url": null },
+               { "type": "yt", "url": "https://www.youtube.com/@daniyal_official" },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": "https://soundcloud.com/daniyal_official" },
+               { "type": "st", "url": "https://open.spotify.com/intl-de/artist/0bRZzB4e6Yj3B64Rcbs1vd" },
+               { "type": "a_m", "url": null },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null }
+          ]
+     },
+     {
+          "id": 19,
+          "name_fa": "سجادی",
+          "name_en": "Sajadii",
+          "avatar": ".png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/SajadiiOfficial" },
+               { "type": "ig", "url": "https://instagram.com/sajadiiofficial" },
+               { "type": "x", "url": "https://twitter.com/OfficialSajadii" },
+               { "type": "yt", "url": "https://www.youtube.com/@Sajadii" },
+               { "type": "fb", "url": "https://www.facebook.com/sajadii.rap/?locale=de_DE" },
+               { "type": "sc", "url": "https://soundcloud.com/SajadiiOfficial" },
+               { "type": "st", "url": "https://spoti.fi/3d9gx0I" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/sajadii/1573590152" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCTXCowm5Gj73XEb-ZJruEQw" },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null },
+               { "type": "dz", "url": "https://www.deezer.com/en/artist/13425331" },
+               { "type": "gn", "url": "https://genius.com/artists/Sajadii" }
+          ]
+     },
+     {
+          "id": 20,
+          "name_fa": "معراج تهرانی",
+          "name_en": "Meraj Tehrani",
+          "avatar": "meraj-tehrani.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/merajtehraniofficial" },
+               { "type": "ig", "url": "https://instagram.com/merajtehraniofficial" },
+               { "type": "x", "url": null },
+               { "type": "yt", "url": "https://www.youtube.com/@MERAJTEHRANIOFFICIAL" },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": "https://soundcloud.com/merajtehrani/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/3P7vhjnuKOIu48DtWq1ICV" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/meraj-tehrani/1494171980" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCdH24mc02jFZ-34zVBLF1sw" },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null },
+               { "type": "gn", "url": "https://genius.com/artists/Meraj-tehrani" }
+          ]
+     },
+     {
+          "id": 21,
+          "name_fa": "پوتک",
+          "name_en": "Putak",
+          "avatar": "putak.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/putakk" },
+               { "type": "ig", "url": "https://instagram.com/braveputak" },
+               { "type": "x", "url": "https://twitter.com/PooriaPutaK" },
+               { "type": "yt", "url": "https://www.youtube.com/@PooriaPutak" },
+               { "type": "fb", "url": "https://facebook.com/PooriaPutaK" },
+               { "type": "sc", "url": "https://soundcloud.com/pooriaputak" },
+               { "type": "st", "url": "https://open.spotify.com/artist/1VURARf1CD5wkFgIexChyq" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/putak/1470694530" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCB9JPg_rjKy7zO88LzWmuJA" },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null },
+               { "type": "gn", "url": "https://genius.com/artists/Putak" },
+               { "type": "gp", "url": "https://g.co/kgs/kqKhmh" },
+               { "type": "tw", "url": "https://twitch.tv/pooriaputak" }
+          ]
+     },
+     {
+          "id": 22,
+          "name_fa": "جاستینا",
+          "name_en": "Justina",
+          "avatar": "justina.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://instagram.com/justinaofficialll" },
+               { "type": "x", "url": "https://x.com/Callmeacrazy" },
+               { "type": "yt", "url": "https://www.youtube.com/@justinaofficialll" },
+               { "type": "fb", "url": "https://www.facebook.com/Justinaofficialll/" },
+               { "type": "sc", "url": "https://soundcloud.com/justinaam" },
+               { "type": "st", "url": "https://open.spotify.com/artist/1WaCguNeKSENLLlSd0vSVR" },
+               { "type": "a_m", "url": null },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D8%B3%D8%AA%DB%8C%D9%86%D8%A7" }
+          ]
+     },
+     {
+          "id": 23,
+          "name_fa": "موئر",
+          "name_en": "Moer",
+          "avatar": "moer.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/Moer25" },
+               { "type": "ig", "url": "https://instagram.com/moerofficial" },
+               { "type": "x", "url": "https://twitter.com/officialmoer" },
+               { "type": "yt", "url": "https://www.youtube.com/@officialmoer" },
+               { "type": "fb", "url": null },
+               { "type": "sc", "url": "https://soundcloud.com/officialmoer" },
+               { "type": "st", "url": "https://open.spotify.com/artist/4hW54ZKwP5LBMxJVGwDbLL?autoplay=true" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/mo%C3%A9r/1503259142" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCqk7min3tizxImVRV3MxfNQ" },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null }
+          ]
+     },
+     {
+          "id": 24,
+          "name_fa": "سینا تهم",
+          "name_en": "Sina Taham",
+          "avatar": "sina-taham.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://www.instagram.com/tahaminjast/" },
+               { "type": "x", "url": "https://x.com/Tahaminjast" },
+               { "type": "yt", "url": "https://www.youtube.com/@Degaran" },
+               { "type": "fb", "url": "https://www.facebook.com/TahamMusic" },
+               { "type": "sc", "url": "https://soundcloud.com/degaran" },
+               { "type": "st", "url": "https://open.spotify.com/intl-de/artist/0Wuyv5K3nFRvaQq3WIb2Ww" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/taham/388367695" },
+               { "type": "yt_m", "url": null },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null }
+          ]
+     },
+     {
+          "id": 25,
+          "name_fa": "مهراد هیدن",
+          "name_en": "Mehrad Hidden",
+          "avatar": "mehrad-hidden.png",
+          "socials": [
+               { "type": "tg", "url": null },
+               { "type": "ig", "url": "https://instagram.com/mehradhiddenofficial" },
+               { "type": "x", "url": "https://twitter.com/mehradhidden?lang=de" },
+               { "type": "yt", "url": "https://www.youtube.com/@MehradHidden1" },
+               { "type": "fb", "url": "https://www.facebook.com/zedbazihidden/" },
+               { "type": "sc", "url": "https://soundcloud.com/mehradhiddenofficial" },
+               { "type": "st", "url": "https://open.spotify.com/artist/0jCVTRvQkILbJvpviTpvd1" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/mehrad-hidden/632147450" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UChR9DGeIAFLxoXL9ed8tbqA" },
+               { "type": "ws", "url": null },
+               { "type": "wp", "url": null },
+               { "type": "gn", "url": "https://genius.com/artists/Mehrad-hidden" }
+          ]
+     }
+]
