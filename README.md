@@ -99,7 +99,7 @@ Below is an example of the JSON data structure used in this project:
                { "type": "tw", "url": "<twitch-url>" }
           ]
      },
-     ...
+     // more rapper objects
 ]
 ```
 
