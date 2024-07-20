@@ -9,12 +9,9 @@
                { "type": "ig", "url": "https://www.instagram.com/pishrorezanaseri/" },
                { "type": "x", "url": "https://twitter.com/Reza_Pishro" },
                { "type": "yt", "url": "https://www.youtube.com/@rezapishrorail" },
-               { "type": "fb", "url": null },
                { "type": "sc", "url": "https://soundcloud.com/reza-pishro-rail" },
                { "type": "st", "url": "https://open.spotify.com/artist/0u4qrFczDmAsJesHPgbnru" },
                { "type": "a_m", "url": "https://music.apple.com/us/artist/reza-pishro/622879833" },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
                { "type": "wp", "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B6%D8%A7_%D9%BE%DB%8C%D8%B4%D8%B1%D9%88" }
           ]
      },
@@ -24,16 +21,12 @@
           "name_en": "Hichkas",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/hichkas.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/hichkasofficial" },
                { "type": "x", "url": "https://twitter.com/HichkasOfficial" },
                { "type": "yt", "url": "https://www.youtube.com/channel/UCAnylXo06Lw_x8swLZhIosg" },
-               { "type": "fb", "url": null },
                { "type": "sc", "url": "https://soundcloud.com/hichkasofficial" },
                { "type": "st", "url": "https://open.spotify.com/artist/2X90kCLyxyPeJ5nynJGbvT" },
                { "type": "a_m", "url": "https://music.apple.com/us/artist/hichkas/202480860" },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
                { "type": "wp", "url": "https://en.wikipedia.org/wiki/Hichkas" }
           ]
      },
@@ -43,16 +36,12 @@
           "name_en": "Yas",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/yas.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/yastunes" },
                { "type": "x", "url": "https://twitter.com/YAStunes" },
                { "type": "yt", "url": "https://www.youtube.com/channel/UC5gx0Pyl3UZ9YztuoZ-jFAQ" },
                { "type": "fb", "url": "https://www.facebook.com/YASfans/" },
                { "type": "sc", "url": "https://soundcloud.com/yastunes" },
                { "type": "st", "url": "https://open.spotify.com/artist/7b8pXheEOc28fyFJnQzqmL" },
-               { "type": "a_m", "url": null },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
                { "type": "wp", "url": "https://en.wikipedia.org/wiki/Yas_(rapper)" }
           ]
      },
@@ -62,14 +51,11 @@
           "name_en": "Erfan Paydar",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/erfan-paydar.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/erfanpaydar" },
                { "type": "x", "url": "https://twitter.com/Erfanmusic" },
                { "type": "yt", "url": "https://www.youtube.com/c/ErfanTabarak" },
-               { "type": "fb", "url": null },
                { "type": "sc", "url": "https://soundcloud.com/erfanpaydar" },
                { "type": "st", "url": "https://open.spotify.com/artist/1yPzb9mqugowOfUs2vIOgL" },
-               { "type": "a_m", "url": null },
                { "type": "yt_m", "url": "https://music.youtube.com/channel/UCD0nIW6_fr0ofSq73dpeflA" },
                { "type": "ws", "url": "https://erfanpaydar.ir/" },
                { "type": "wp", "url": "https://en.wikipedia.org/wiki/Erfan_(rapper)" }
@@ -81,16 +67,12 @@
           "name_en": "Amir Tataloo",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/amir-tataloo.png",
           "socials": [
-               { "type": "tg", "url": null },
-               { "type": "ig", "url": null },
                { "type": "x", "url": "https://twitter.com/tatalioo" },
                { "type": "yt", "url": "https://www.youtube.com/user/TheAmirTataloo" },
                { "type": "fb", "url": "https://www.facebook.com/amir.tataloo1" },
                { "type": "sc", "url": "https://soundcloud.com/amirtataloo" },
                { "type": "st", "url": "https://open.spotify.com/artist/5CEosSs2y4M9THNGI6mej8" },
                { "type": "a_m", "url": "https://music.apple.com/us/artist/amir-tataloo/448421862" },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
                { "type": "wp", "url": "https://en.wikipedia.org/wiki/Amir_Tataloo" }
           ]
      },
@@ -107,9 +89,6 @@
                { "type": "fb", "url": "https://www.facebook.com/ToomajSalehiOfficial/" },
                { "type": "sc", "url": "https://soundcloud.com/toomajsalehi" },
                { "type": "st", "url": "https://open.spotify.com/artist/5mBmrpiMC2lzIWCG0MDOYx" },
-               { "type": "a_m", "url": null },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
                { "type": "wp", "url": "https://en.wikipedia.org/wiki/Toomaj_Salehi" }
           ]
      },
@@ -119,17 +98,9 @@
           "name_en": "Omid Ghadar",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/omid-ghadar.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/ghadarofficial/" },
                { "type": "x", "url": "https://twitter.com/ghadarofficial" },
-               { "type": "yt", "url": null },
-               { "type": "fb", "url": null },
-               { "type": "sc", "url": "https://soundcloud.com/ghadarofficial" },
-               { "type": "st", "url": null },
-               { "type": "a_m", "url": null },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null }
+               { "type": "sc", "url": "https://soundcloud.com/ghadarofficial" }
           ]
      },
      {
@@ -138,17 +109,10 @@
           "name_en": "Ali Owj",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/ali-owj.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/aliowjhiphop" },
-               { "type": "x", "url": null },
-               { "type": "yt", "url": null },
-               { "type": "fb", "url": null },
                { "type": "sc", "url": "https://soundcloud.com/owjali" },
                { "type": "st", "url": "https://open.spotify.com/artist/1QLYXMAVVrk6WLYeARVBKn" },
-               { "type": "a_m", "url": "https://music.apple.com/us/artist/ali-owj/622879995" },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null }
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/ali-owj/622879995" }
           ]
      },
      {
@@ -157,17 +121,13 @@
           "name_en": "Sina Sae",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/sina-sae.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/tiktaaksaesina" },
                { "type": "x", "url": "https://twitter.com/tiktaaksinasae?s=11" },
                { "type": "yt", "url": "https://www.youtube.com/channel/UCWPhmUOUtJLD_O79VC2mD-w" },
                { "type": "fb", "url": "https://facebook.com/watch/TikTaakSinaSaeofficial" },
                { "type": "sc", "url": "https://soundcloud.com/sinasae" },
                { "type": "st", "url": "https://open.spotify.com/artist/5er043agmHdVZkWTxL0Lpk" },
-               { "type": "a_m", "url": "https://music.apple.com/us/artist/sina-sae/1398160438" },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null }
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/sina-sae/1398160438" }
           ]
      },
      {
@@ -176,7 +136,6 @@
           "name_en": "Bahram Nouraei",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/bahram-nouraei.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/bahramnouraei" },
                { "type": "x", "url": "https://twitter.com/BahramNouraei" },
                { "type": "yt", "url": "https://www.youtube.com/@BahramNouraei" },
@@ -184,7 +143,6 @@
                { "type": "sc", "url": "https://soundcloud.com/Bahramnouraei" },
                { "type": "st", "url": "https://open.spotify.com/artist/57LWeRc7ybAWTsS2vS1GA7" },
                { "type": "a_m", "url": "https://itunes.apple.com/artist/bahram/325178456" },
-               { "type": "yt_m", "url": null },
                { "type": "ws", "url": "https://bahramnouraei.com/" },
                { "type": "wp", "url": "https://en.wikipedia.org/wiki/Bahram_Nouraei" }
           ]
@@ -195,16 +153,12 @@
           "name_en": "Ali Sorena",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/ali-sorena.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/a.sorena" },
                { "type": "x", "url": "https://twitter.com/sorenaofficial" },
                { "type": "yt", "url": "https://www.youtube.com/@Sorenaofficial" },
-               { "type": "fb", "url": null },
                { "type": "sc", "url": "https://soundcloud.com/AliSorena" },
                { "type": "st", "url": "https://open.spotify.com/artist/1gNqCEatbX4cKskpTzyAsI" },
                { "type": "a_m", "url": "https://music.apple.com/ca/artist/ali-sorena/730755096" },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
                { "type": "wp", "url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%D8%B3%D9%88%D8%B1%D9%86%D8%A7" },
                { "type": "em", "url": "AliSorenaofficial@gmail.com" }
           ]
@@ -215,17 +169,12 @@
           "name_en": "Amir Khalvat",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/amir-khalvat.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/amirkhalvatofficial/" },
-               { "type": "x", "url": null },
                { "type": "yt", "url": "https://www.youtube.com/@amirkhalvatofficial" },
                { "type": "fb", "url": "https://m.facebook.com/p/Amir-khalvat-100063745869105/" },
                { "type": "sc", "url": "https://soundcloud.com/amirkhalvatofficial" },
                { "type": "st", "url": "https://open.spotify.com/artist/3mEVURCsHml1RKlcYjRyiy" },
-               { "type": "a_m", "url": "https://music.apple.com/us/artist/amir-khalvat/1164578015" },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null }
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/amir-khalvat/1164578015" }
           ]
      },
      {
@@ -234,17 +183,12 @@
           "name_en": "Mohammadreza Shayea",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/mohammadreza-shayea.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/shayea.official" },
                { "type": "x", "url": "https://twitter.com/shayea_official" },
                { "type": "yt", "url": "https://www.youtube.com/@Shayea1" },
-               { "type": "fb", "url": null },
                { "type": "sc", "url": "https://soundcloud.com/aslistream" },
                { "type": "st", "url": "https://open.spotify.com/artist/3QNGoF6VzVNnkpjJDT3NHq?si=4qMf32O1T6yg_Ndrpsxf7Q&nd=1&dlsi=866cadcf06194513" },
-               { "type": "a_m", "url": "https://music.apple.com/us/artist/shayea/1047023177" },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null }
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/shayea/1047023177" }
           ]
      },
      {
@@ -253,7 +197,6 @@
           "name_en": "Shahin Najafi",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/shahin-najafi.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/shahinnajafi/" },
                { "type": "x", "url": "https://twitter.com/shahinnajafi80?" },
                { "type": "yt", "url": "https://www.youtube.com/c/shahinnajafimusic" },
@@ -261,7 +204,6 @@
                { "type": "sc", "url": "https://soundcloud.com/shahinnajafimusic" },
                { "type": "st", "url": "https://open.spotify.com/artist/1W5u8Bz2yimyuuI8QNYsNO" },
                { "type": "a_m", "url": "https://music.apple.com/us/artist/shahin-najafi/401277985" },
-               { "type": "yt_m", "url": null },
                { "type": "ws", "url": "https://www.shahinnajafimusic.com/" },
                { "type": "wp", "url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%DB%8C%D9%86_%D9%86%D8%AC%D9%81%DB%8C" }
           ]
@@ -272,17 +214,12 @@
           "name_en": "Ho3ein",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/ho3ein.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/h.rah/" },
                { "type": "x", "url": "https://twitter.com/Ho3einOfficial" },
                { "type": "yt", "url": "https://www.youtube.com/@Ho3einRa" },
-               { "type": "fb", "url": null },
-               { "type": "sc", "url": null },
                { "type": "st", "url": "https://open.spotify.com/artist/5vVveQB8n4kETe67waTS3t" },
                { "type": "a_m", "url": "https://music.apple.com/it/artist/ho3ein/568455515" },
                { "type": "yt_m", "url": "https://music.youtube.com/channel/UCECdvkLKropUTf3cCUdgTKg" },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null },
                { "type": "dz", "url": "https://deezer.com/us/artist/4040206" },
                { "type": "az_m", "url": "https://music.amazon.com/artists/B009MUTYFQ/ho3ein?marketplaceId=ATVPDKIKX0DER&musicTerritory=US" }
           ]
@@ -293,15 +230,12 @@
           "name_en": "Sadegh Vahedi",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/sadegh-vahedi.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/sadeghvahediofficial/" },
                { "type": "x", "url": "https://twitter.com/sadeghofficial" },
                { "type": "yt", "url": "https://www.youtube.com/@Sadeghvahedi" },
-               { "type": "fb", "url": null },
                { "type": "sc", "url": "https://soundcloud.com/sadeghvahedi" },
                { "type": "st", "url": "https://open.spotify.com/artist/1PgsdK1Ll4oK28g6KLPOg1" },
                { "type": "a_m", "url": "https://music.apple.com/us/artist/sadegh/1156242776" },
-               { "type": "yt_m", "url": null },
                { "type": "ws", "url": "https://sadeghvahedi.com" },
                { "type": "wp", "url": "https://fa.wikipedia.org/wiki/%D8%B5%D8%A7%D8%AF%D9%82_(%D8%AE%D9%88%D8%A7%D9%86%D9%86%D8%AF%D9%87)" }
           ]
@@ -312,17 +246,14 @@
           "name_en": "Sogand",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/sogand.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/isogand" },
                { "type": "x", "url": "https://twitter.com/5ogand" },
                { "type": "yt", "url": "https://www.youtube.com/@isogand" },
                { "type": "fb", "url": "https://facebook.com/isogand" },
-               { "type": "sc", "url": null },
                { "type": "st", "url": "https://open.spotify.com/artist/2mGkJsyXC8byI83UHSO4w1?autoplay=true" },
                { "type": "a_m", "url": "https://music.apple.com/de/artist/sogand/359009635" },
                { "type": "yt_m", "url": "https://music.youtube.com/channel/UCcXZ4NW0h2Hhp3FzPohbdFQ" },
-               { "type": "ws", "url": "https://www.deutschfmradio.de/" },
-               { "type": "wp", "url": null }
+               { "type": "ws", "url": "https://www.deutschfmradio.de/" }
           ]
      },
      {
@@ -331,17 +262,10 @@
           "name_en": "Daniyal",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/daniyal.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/DaniyalOfficial" },
-               { "type": "x", "url": null },
                { "type": "yt", "url": "https://www.youtube.com/@daniyal_official" },
-               { "type": "fb", "url": null },
                { "type": "sc", "url": "https://soundcloud.com/daniyal_official" },
-               { "type": "st", "url": "https://open.spotify.com/intl-de/artist/0bRZzB4e6Yj3B64Rcbs1vd" },
-               { "type": "a_m", "url": null },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null }
+               { "type": "st", "url": "https://open.spotify.com/intl-de/artist/0bRZzB4e6Yj3B64Rcbs1vd" }
           ]
      },
      {
@@ -359,8 +283,6 @@
                { "type": "st", "url": "https://spoti.fi/3d9gx0I" },
                { "type": "a_m", "url": "https://music.apple.com/us/artist/sajadii/1573590152" },
                { "type": "yt_m", "url": "https://music.youtube.com/channel/UCTXCowm5Gj73XEb-ZJruEQw" },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null },
                { "type": "dz", "url": "https://www.deezer.com/en/artist/13425331" },
                { "type": "gn", "url": "https://genius.com/artists/Sajadii" }
           ]
@@ -373,15 +295,11 @@
           "socials": [
                { "type": "tg", "url": "https://t.me/merajtehraniofficial" },
                { "type": "ig", "url": "https://instagram.com/merajtehraniofficial" },
-               { "type": "x", "url": null },
                { "type": "yt", "url": "https://www.youtube.com/@MERAJTEHRANIOFFICIAL" },
-               { "type": "fb", "url": null },
                { "type": "sc", "url": "https://soundcloud.com/merajtehrani/" },
                { "type": "st", "url": "https://open.spotify.com/artist/3P7vhjnuKOIu48DtWq1ICV" },
                { "type": "a_m", "url": "https://music.apple.com/de/artist/meraj-tehrani/1494171980" },
                { "type": "yt_m", "url": "https://music.youtube.com/channel/UCdH24mc02jFZ-34zVBLF1sw" },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null },
                { "type": "gn", "url": "https://genius.com/artists/Meraj-tehrani" }
           ]
      },
@@ -400,8 +318,6 @@
                { "type": "st", "url": "https://open.spotify.com/artist/1VURARf1CD5wkFgIexChyq" },
                { "type": "a_m", "url": "https://music.apple.com/de/artist/putak/1470694530" },
                { "type": "yt_m", "url": "https://music.youtube.com/channel/UCB9JPg_rjKy7zO88LzWmuJA" },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null },
                { "type": "gn", "url": "https://genius.com/artists/Putak" },
                { "type": "gp", "url": "https://g.co/kgs/kqKhmh" },
                { "type": "tw", "url": "https://twitch.tv/pooriaputak" }
@@ -413,16 +329,12 @@
           "name_en": "Justina",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/justina.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/justinaofficialll" },
                { "type": "x", "url": "https://x.com/Callmeacrazy" },
                { "type": "yt", "url": "https://www.youtube.com/@justinaofficialll" },
                { "type": "fb", "url": "https://www.facebook.com/Justinaofficialll/" },
                { "type": "sc", "url": "https://soundcloud.com/justinaam" },
                { "type": "st", "url": "https://open.spotify.com/artist/1WaCguNeKSENLLlSd0vSVR" },
-               { "type": "a_m", "url": null },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
                { "type": "wp", "url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D8%B3%D8%AA%DB%8C%D9%86%D8%A7" }
           ]
      },
@@ -436,13 +348,10 @@
                { "type": "ig", "url": "https://instagram.com/moerofficial" },
                { "type": "x", "url": "https://twitter.com/officialmoer" },
                { "type": "yt", "url": "https://www.youtube.com/@officialmoer" },
-               { "type": "fb", "url": null },
                { "type": "sc", "url": "https://soundcloud.com/officialmoer" },
                { "type": "st", "url": "https://open.spotify.com/artist/4hW54ZKwP5LBMxJVGwDbLL?autoplay=true" },
                { "type": "a_m", "url": "https://music.apple.com/de/artist/mo%C3%A9r/1503259142" },
-               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCqk7min3tizxImVRV3MxfNQ" },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null }
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCqk7min3tizxImVRV3MxfNQ" }
           ]
      },
      {
@@ -451,17 +360,13 @@
           "name_en": "Sina Taham",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/sina-taham.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://www.instagram.com/tahaminjast/" },
                { "type": "x", "url": "https://x.com/Tahaminjast" },
                { "type": "yt", "url": "https://www.youtube.com/@Degaran" },
                { "type": "fb", "url": "https://www.facebook.com/TahamMusic" },
                { "type": "sc", "url": "https://soundcloud.com/degaran" },
                { "type": "st", "url": "https://open.spotify.com/intl-de/artist/0Wuyv5K3nFRvaQq3WIb2Ww" },
-               { "type": "a_m", "url": "https://music.apple.com/us/artist/taham/388367695" },
-               { "type": "yt_m", "url": null },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null }
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/taham/388367695" }
           ]
      },
      {
@@ -470,7 +375,6 @@
           "name_en": "Mehrad Hidden",
           "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/mehrad-hidden.png",
           "socials": [
-               { "type": "tg", "url": null },
                { "type": "ig", "url": "https://instagram.com/mehradhiddenofficial" },
                { "type": "x", "url": "https://twitter.com/mehradhidden?lang=de" },
                { "type": "yt", "url": "https://www.youtube.com/@MehradHidden1" },
@@ -479,9 +383,378 @@
                { "type": "st", "url": "https://open.spotify.com/artist/0jCVTRvQkILbJvpviTpvd1" },
                { "type": "a_m", "url": "https://music.apple.com/us/artist/mehrad-hidden/632147450" },
                { "type": "yt_m", "url": "https://music.youtube.com/channel/UChR9DGeIAFLxoXL9ed8tbqA" },
-               { "type": "ws", "url": null },
-               { "type": "wp", "url": null },
                { "type": "gn", "url": "https://genius.com/artists/Mehrad-hidden" }
+          ]
+     },
+     {
+          "id": 26,
+          "name_fa": "شاهینلو",
+          "name_en": "Shahin Loo",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/shahin-loo.png",
+          "socials": [
+               { "type": "ig", "url": "https://instagram.com/shahinlooo/" },
+               { "type": "x", "url": "https://x.com/Shahinlooo" },
+               { "type": "yt", "url": "https://www.youtube.com/c/Shahinloo/" },
+               { "type": "fb", "url": "https://facebook.com/Shahinloo" },
+               { "type": "st", "url": "https://open.spotify.com/artist/6rh4imFl7pWcQ243nAtdiV" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/shahin-loo/1591933948" }
+          ]
+     },
+     {
+          "id": 27,
+          "name_fa": "علی‌بی",
+          "name_en": "Alibi Rafeon",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/alibi-rafeon.png",
+          "socials": [
+               { "type": "ig", "url": "https://www.instagram.com/alibirafeon/" },
+               { "type": "yt", "url": "https://www.youtube.com/channel/UCAJqoZB-9Qi_YnKtVd7ImlQ" },
+               { "type": "fb", "url": "https://www.facebook.com/Rafeonmusic/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/08jxPVlZ8D37oyVMW5DMCD?autoplay=true" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/alibi-rafeon/1515266705" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCAJqoZB-9Qi_YnKtVd7ImlQ" }
+          ]
+     },
+     {
+          "id": 28,
+          "name_fa": "نبیلیتی",
+          "name_en": "Nabilety",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/nabilety.png",
+          "socials": [
+               { "type": "ig", "url": "https://www.instagram.com/nabilety/" },
+               { "type": "yt", "url": "https://www.youtube.com/@TMBAX/" },
+               { "type": "sc", "url": "https://soundcloud.com/nabilety/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/7m8HO92gPhiVthQ3Pq2AwY" },
+               { "type": "gn", "url": "https://genius.com/artists/Nabilety/" }
+          ]
+     },
+     {
+          "id": 29,
+          "name_fa": "سامان ویلسون",
+          "name_en": "Saman Wilson",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/saman-wilson.png",
+          "socials": [
+               { "type": "ig", "url": "https://www.instagram.com/aslekaar/" },
+               { "type": "yt", "url": "https://www.youtube.com/channel/UCVL8FdMncZyY8MoGig9kmCQ" },
+               { "type": "fb", "url": "https://www.facebook.com/Wils0nZedbazi/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/2CwNkCPsqVs4jRRpFJxR3H" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/saman-wilson/1196715619" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCVL8FdMncZyY8MoGig9kmCQ" }
+          ]
+     },
+     {
+          "id": 30,
+          "name_fa": "علیرضا جی‌جی",
+          "name_en": "Alireza JJ",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/alireza-jj.png",
+          "socials": [
+               { "type": "ig", "url": "https://www.instagram.com/alirezajjofficial/" },
+               { "type": "x", "url": "https://x.com/AlirezaJJ/" },
+               { "type": "yt", "url": "https://www.youtube.com/@AlirezaJJYEK/" },
+               { "type": "fb", "url": "https://www.facebook.com/zedbazijj/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/3tecdksDTajgP8xxkuDgyJ" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/alireza-jj/568455511" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UC4Ni-PFfeKS4QmzqtQMnUNw" },
+               { "type": "gn", "url": "https://genius.com/artists/Alireza-jj" }
+          ]
+     },
+     {
+          "id": 31,
+          "name_fa": "سهراب ام‌جی",
+          "name_en": "Sohrab MJ",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/sohrab-mj.png",
+          "socials": [
+               { "type": "ig", "url": "https://instagram.com/sohmj/" },
+               { "type": "yt", "url": "https://www.youtube.com/@sohrabmjOAC/" },
+               { "type": "sc", "url": "https://soundcloud.com/haj-ali-77490318" },
+               { "type": "st", "url": "https://open.spotify.com/artist/2B4DnBz9uzJN5nPgLEHCt7" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/sohrab-mj/585777015" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCvq5HSkrxcKLOxN2u-Lrj4A" },
+               { "type": "az_m", "url": "https://music.amazon.de/artists/B01LXUNJM3/sohrab-mj" },
+               { "type": "ws", "url": "https://sohrabmj.co/" },
+               { "type": "gn", "url": "https://genius.com/artists/Sohrab-mj" }
+          ]
+     },
+     {
+          "id": 32,
+          "name_fa": "نیما نیموش",
+          "name_en": "Nima Nimosh",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/nima-nimosh.png",
+          "socials": [
+               { "type": "ig", "url": "https://www.instagram.com/nimanimosh/" },
+               { "type": "yt", "url": "https://www.youtube.com/c/NimaNimosh" },
+               { "type": "sc", "url": "https://soundcloud.com/nnimosh" },
+               { "type": "st", "url": "https://open.spotify.com/artist/4et15QKgheG924hRzBwi3u" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/nima-nimosh/1176500069" },
+               { "type": "gn", "url": "https://genius.com/artists/Nima-nimosh" }
+          ]
+     },
+     {
+          "id": 33,
+          "name_fa": "بهمن دیو",
+          "name_en": "Bahman Deev",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/bahman-deev.png",
+          "socials": [
+               { "type": "ig", "url": "https://instagram.com/deevineh/" },
+               { "type": "yt", "url": "https://www.youtube.com/@jadugaran/" },
+               { "type": "fb", "url": "https://www.facebook.com/jadugaran" },
+               { "type": "gn", "url": "https://genius.com/artists/Bahman-deev" }
+          ]
+     },
+     {
+          "id": 34,
+          "name_fa": "بابک تیغه",
+          "name_en": "Babak Tighe",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/babak-tighe.png",
+          "socials": [
+               { "type": "ig", "url": "https://www.instagram.com/tighe.021/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/4VGKaLqkXs8GeicQaRmRW2" },
+               { "type": "gn", "url": "https://genius.com/artists/Babak-tighe" },
+               { "type": "dz", "url": "https://www.deezer.com/en/artist/62250832" }
+          ]
+     },
+     {
+          "id": 35,
+          "name_fa": "شاهین فلاکت",
+          "name_en": "Shahin Felakat",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/shahin-felakat.png",
+          "socials": [
+               { "type": "fb", "url": "https://www.facebook.com/Shahin.Felakat/" },
+               { "type": "gn", "url": "https://genius.com/artists/Shahin-felakat" },
+               { "type": "dz", "url": "https://www.deezer.com/en/artist/12242312" }
+          ]
+     },
+     {
+          "id": 36,
+          "name_fa": "حسین تهی",
+          "name_en": "Hossein Tohi",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/hossein-tohi.png",
+          "socials": [
+               { "type": "ig", "url": "https://instagram.com/tohi/" },
+               { "type": "x", "url": "https://x.com/tohiofficial/" },
+               { "type": "yt", "url": "https://www.youtube.com/@tohi/" },
+               { "type": "fb", "url": "https://facebook.com/htohi/" },
+               { "type": "sc", "url": "https://soundcloud.com/tohi" },
+               { "type": "st", "url": "https://open.spotify.com/artist/7pBXdJN9S9N9nNifjPixET" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/tohi/946028572" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCundHSHN0CGZ22W9VLX0pIQ" },
+               { "type": "ws", "url": "https://tohimusic.com/" }
+          ]
+     },
+     {
+          "id": 37,
+          "name_fa": "جرشا",
+          "name_en": "Jarshaa",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/jarshaa.png",
+          "socials": [
+               { "type": "ig", "url": "https://www.instagram.com/Jarshaa_/" },
+               { "type": "yt", "url": "https://www.youtube.com/@MirzaJarshaa/" },
+               { "type": "fb", "url": "https://www.facebook.com/jarshaam" },
+               { "type": "sc", "url": "https://soundcloud.com/jarshaa/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/66pDL2f3LoOqKBD6BjDvQh" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/jarshaa/1449788176" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCyvsgfDFa72fIhRr2Qpcxeg" }
+          ]
+     },
+     {
+          "id": 38,
+          "name_fa": "بابک ماکیاولی",
+          "name_en": "Babak Makaveli",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/babak-makaveli.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/babakmaka/" },
+               { "type": "ig", "url": "https://instagram.com/babakmakaveli/" },
+               { "type": "x", "url": "https://x.com/MakaveliBabak/" },
+               { "type": "yt", "url": "https://www.youtube.com/@BabakMakaveli/" },
+               { "type": "fb", "url": "https://facebook.com/babak.makaveli/" },
+               { "type": "sc", "url": "https://soundcloud.com/babak-makaveli-1/" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/babak-makaveli/1510244658" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCMeMc46SnrPh3Rq0-PTfCIQ" },
+               { "type": "gn", "url": "https://genius.com/BabakMakaveli/" },
+               { "type": "dz", "url": "https://www.deezer.com/en/artist/68737422" },
+               { "type": "az_m", "url": "https://www.amazon.de/music/player/artists/B07TXKPS47/babak-makaveli" }
+          ]
+     },
+     {
+          "id": 39,
+          "name_fa": "حسین هفت",
+          "name_en": "Hossein Haft",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/hossein-haft.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/hosseinhaft/" },
+               { "type": "ig", "url": "https://www.instagram.com/haftofficial/" },
+               { "type": "x", "url": "https://x.com/haftofficial/" },
+               { "type": "yt", "url": "https://www.youtube.com/@haftt/" },
+               { "type": "sc", "url": "https://soundcloud.com/haftofficial/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/33Enf2kv1jxg6sNWh6ebH1" },
+               { "type": "ws", "url": "https://hosseinhaft.info/" },
+               { "type": "dz", "url": "https://www.deezer.com/de/artist/70947932" }
+          ]
+     },
+     {
+          "id": 40,
+          "name_fa": "رضا پیکه",
+          "name_en": "Reza Pike",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/reza-pike.png",
+          "socials": [
+               { "type": "ig", "url": "https://www.instagram.com/reza__pike/" },
+               { "type": "yt", "url": "https://www.youtube.com/@rezapike/" },
+               { "type": "sc", "url": "https://soundcloud.com/reza-pike/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/4szlMkXViELBfgULWPKoJM" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/reza-pike/1573331226" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCjIsa-fpzpWGhITXh2qhIIw" },
+               { "type": "az_m", "url": "https://www.amazon.de/music/player/artists/B097QL37VC/reza-pike" }
+          ]
+     },
+     {
+          "id": 41,
+          "name_fa": "سولی",
+          "name_en": "Solly Alibak",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/solly-alibak.png",
+          "socials": [
+               { "type": "ig", "url": "https://www.instagram.com/sollyofficiall/" },
+               { "type": "yt", "url": "https://www.youtube.com/@sollyalibak1237/" },
+               { "type": "sc", "url": "https://soundcloud.com/sollyofficiall/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/2s5SLcC1Z27Ga2yr7vqOfo" }
+          ]
+     },
+     {
+          "id": 42,
+          "name_fa": "علی مسلک",
+          "name_en": "Ali Maslak",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/ali-maslak.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/maslak021/" },
+               { "type": "ig", "url": "https://www.instagram.com/maslak021/" },
+               { "type": "x", "url": "https://x.com/maslak_hiphop/" },
+               { "type": "yt", "url": "https://www.youtube.com/@maslak021/" },
+               { "type": "sc", "url": "https://soundcloud.com/ali-maslak/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/6ZWZCww4so7LacgTJiFTWb" },
+               { "type": "a_m", "url": "https://music.apple.com/us/artist/maslak/1164579487" },
+               { "type": "dz", "url": "https://www.deezer.com/de/artist/6938963/" },
+               { "type": "tdl", "url": "https://tidal.com/browse/artist/6685380/" },
+               { "type": "az_m", "url": "https://music.amazon.com/artists/B00UTEW5AA/maslak/" }
+          ]
+     },
+     {
+          "id": 43,
+          "name_fa": "فرید",
+          "name_en": "Farid",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/farid.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/faridofficial/" },
+               { "type": "ig", "url": "https://www.instagram.com/farid.official/" },
+               { "type": "sc", "url": "https://soundcloud.com/faridofficial7/" }
+          ]
+     },
+     {
+          "id": 44,
+          "name_fa": "جی‌دال",
+          "name_en": "Gdaal",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/gdaal.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/Gdaaltelegram/" },
+               { "type": "ig", "url": "https://instagram.com/g.daal/" },
+               { "type": "yt", "url": "https://www.youtube.com/@Gdaal/" },
+               { "type": "sc", "url": "https://soundcloud.com/gdaal/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/7mGDv3CYlPghTIWzE6tOpv" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/gdaal/1142754006" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UC653bzSD0fzIDpfi-GOFzgw" },
+               { "type": "ws", "url": "https://gdaalmusic.com/" },
+               { "type": "gn", "url": "https://genius.com/artists/Gdaal/" },
+               { "type": "dz", "url": "https://www.deezer.com/de/artist/9021654/" },
+               { "type": "az_m", "url": "https://music.amazon.de/artists/B016ENDZFI/gdaal/" },
+               { "type": "tdl", "url": "https://tidal.com/browse/artist/6118355/" }
+          ]
+     },
+     {
+          "id": 45,
+          "name_fa": "زخمی",
+          "name_en": "Zakhmi",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/zakhmi.png",
+          "socials": [
+               { "type": "ig", "url": "https://instagram.com/zakhmiofficial/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/4jE3X9cADx45YcmBiteecQ" },
+               { "type": "gn", "url": "https://genius.com/artists/Zakhmi/" },
+               { "type": "az_m", "url": "https://www.amazon.de/music/player/artists/B01M19IQBM/zakhmi/" },
+               { "type": "dz", "url": "https://www.deezer.com/en/artist/11086950/" }
+          ]
+     },
+     {
+          "id": 46,
+          "name_fa": "سیناب",
+          "name_en": "Sinab",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/sinab.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/sinabofficial/" },
+               { "type": "ig", "url": "https://instagram.com/sinab/" },
+               { "type": "x", "url": "https://x.com/sinabofficial/" },
+               { "type": "yt", "url": "https://www.youtube.com/@sinab954/" },
+               { "type": "sc", "url": "https://soundcloud.com/sinabofficial/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/3zyb1Z44UDJ1JFzG6a3JID" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/sinab/1495612988/" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCJAgUxiF6jOCwfyztkrZYBw" },
+               { "type": "ws", "url": "https://www.p3r.app/" },
+               { "type": "az_m", "url": "https://music.amazon.com/artists/B0844XDL4F/sinab/" },
+               { "type": "dz", "url": "https://www.deezer.com/en/artist/83892212/" }
+          ]
+     },
+     {
+          "id": 47,
+          "name_fa": "امیرعلی A2",
+          "name_en": "Amirali A2",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/amirali-a2.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/thegreata2/" },
+               { "type": "ig", "url": "https://www.instagram.com/thegreatamirali/" },
+               { "type": "yt", "url": "https://www.youtube.com/@amiralia2963/" },
+               { "type": "sc", "url": "https://soundcloud.com/thegreatamirali/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/5nfrdEi3ldkgcAmHwPPRkk" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/amirali-a2/1164577053/" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCLSE9aErQ_3D39qDnNVp_dA" }
+          ]
+     },
+     {
+          "id": 48,
+          "name_fa": "کچی بیتز",
+          "name_en": "Catchybeatz",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/catchybeatz.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/catchySR/" },
+               { "type": "ig", "url": "https://instagram.com/tiktaaksr/" },
+               { "type": "x", "url": "https://x.com/catchybeatz/" },
+               { "type": "yt", "url": "https://www.youtube.com/@CatchyBeatzOfficial/" },
+               { "type": "fb", "url": "https://www.facebook.com/Tiktaaksr/" },
+               { "type": "sc", "url": "https://soundcloud.com/tiktaak-sr/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/25JIQIFASUvrcnzFL9CQhZ" },
+               { "type": "gn", "url": "https://genius.com/artists/Catchybeatz/" }
+          ]
+     },
+     {
+          "id": 49,
+          "name_fa": "شایان آسفالت",
+          "name_en": "Shayan Asphalt",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/shayan-asphalt.png",
+          "socials": [
+               { "type": "tg", "url": "https://t.me/asphalt021/" },
+               { "type": "ig", "url": "https://www.instagram.com/shayan.asphalt/" },
+               { "type": "yt", "url": "https://www.youtube.com/@shayanasphalt7744/" },
+               { "type": "sc", "url": "https://soundcloud.com/shayanasphalt/" },
+               { "type": "gn", "url": "https://genius.com/artists/Shayan-asphalt/" }
+          ]
+     },
+     {
+          "id": 50,
+          "name_fa": "رض",
+          "name_en": "Rez",
+          "avatar": "https://raw.githubusercontent.com/alihoushy/gangcloud/main/assets/avatars/rez.png",
+          "socials": [
+               { "type": "ig", "url": "https://www.instagram.com/rezchro/" },
+               { "type": "x", "url": "https://x.com/rezmozmen/" },
+               { "type": "sc", "url": "https://soundcloud.com/divarrecords/" },
+               { "type": "st", "url": "https://open.spotify.com/artist/1l8pQbuaP7I1jEI6g6Jnfu" },
+               { "type": "a_m", "url": "https://music.apple.com/de/artist/rez/184795233/" },
+               { "type": "yt_m", "url": "https://music.youtube.com/channel/UCWKr1J6YecYxRCTBwyl1fGg" },
+               { "type": "ws", "url": "https://divar.im/" }
           ]
      }
 ]

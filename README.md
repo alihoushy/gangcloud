@@ -35,8 +35,33 @@ A Chrome extension that lists Iranian rappers along with all of their social net
 | Putak | <img src="./assets/avatars/putak.png" alt="Putak" width="75" height="75"> | [Install Extension](#installation-instructions) |
 | Justina | <img src="./assets/avatars/justina.png" alt="Justina" width="75" height="75"> | [Install Extension](#installation-instructions) |
 | Moer | <img src="./assets/avatars/moer.png" alt="Moer" width="75" height="75"> | [Install Extension](#installation-instructions) |
-| Sina Taham | <img src="./assets/avatars/sina-sae.png" alt="Sina Taham" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Sina Taham | <img src="./assets/avatars/sina-taham.png" alt="Sina Taham" width="75" height="75"> | [Install Extension](#installation-instructions) |
 | Mehrad Hidden | <img src="./assets/avatars/mehrad-hidden.png" alt="Mehrad Hidden" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Shahin Loo | <img src="./assets/avatars/shahin-loo.png" alt="Shahin Loo" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Alibi Rafeon | <img src="./assets/avatars/alibi-rafeon.png" alt="Alibi Rafeon" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Nabilety | <img src="./assets/avatars/nabilety.png" alt="Nabilety" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Saman Wilson | <img src="./assets/avatars/saman-wilson.png" alt="Saman Wilson" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Alireza JJ | <img src="./assets/avatars/alireza-jj.png" alt="Alireza JJ" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Sohrab MJ | <img src="./assets/avatars/sohrab-mj.png" alt="Sohrab MJ" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Nima Nimosh | <img src="./assets/avatars/nima-nimosh.png" alt="Nima Nimosh" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Bahman Deev | <img src="./assets/avatars/bahman-deev.png" alt="Bahman Deev" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Babak Tighe | <img src="./assets/avatars/babak-tighe.png" alt="Babak Tighe" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Shahin Felakat | <img src="./assets/avatars/shahin-felakat.png" alt="Shahin Felakat" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Hossein Tohi | <img src="./assets/avatars/hossein-tohi.png" alt="Hossein Tohi" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Jarshaa | <img src="./assets/avatars/jarshaa.png" alt="Jarshaa" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Babak Makaveli | <img src="./assets/avatars/babak-makaveli.png" alt="Babak Makaveli" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Hossein Haft | <img src="./assets/avatars/hossein-haft.png" alt="Hossein Haft" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Reza Pike | <img src="./assets/avatars/reza-pike.png" alt="Reza Pike" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Solly Alibak | <img src="./assets/avatars/solly-alibak.png" alt="Solly Alibak" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Ali Maslak | <img src="./assets/avatars/ali-maslak.png" alt="Ali Maslak" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Farid | <img src="./assets/avatars/farid.png" alt="Farid" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Gdaal | <img src="./assets/avatars/gdaal.png" alt="Gdaal" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Zakhmi | <img src="./assets/avatars/zakhmi.png" alt="Zakhmi" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Sinab | <img src="./assets/avatars/sinab.png" alt="Sinab" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Amirali A2 | <img src="./assets/avatars/amirali-a2.png" alt="Amirali A2" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Catchybeatz | <img src="./assets/avatars/catchybeatz.png" alt="Catchybeatz" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Shayan Asphalt | <img src="./assets/avatars/shayan-asphalt.png" alt="Shayan Asphalt" width="75" height="75"> | [Install Extension](#installation-instructions) |
+| Rez | <img src="./assets/avatars/rez.png" alt="Rez" width="75" height="75"> | [Install Extension](#installation-instructions) |
 
 ## Installation Instructions
 
@@ -96,7 +121,9 @@ Below is an example of the JSON data structure used in this project:
                { "type": "wp", "url": "<wikipedia-url>" },
                { "type": "gn", "url": "<genius-url>" },
                { "type": "gp", "url": "<google-search-url>" },
-               { "type": "tw", "url": "<twitch-url>" }
+               { "type": "tw", "url": "<twitch-url>" },
+               { "type": "dz", "url": "<deezer-url>" },
+               { "type": "tdl", "url": "<tidal-url>" }
           ]
      },
      // more rapper objects
